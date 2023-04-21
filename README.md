@@ -67,7 +67,7 @@ We will publish the main library shortly with more information updated on this v
 
 Let's explore the test script ->
 
-### playPII.py
+### testChatGPTModel.py
 
 ```
 #####################################################
